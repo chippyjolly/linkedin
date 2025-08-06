@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# Build
+dist/
+build/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env
+.env
